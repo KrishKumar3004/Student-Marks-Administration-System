@@ -7,7 +7,8 @@
 ![Screenshot from 2023-03-17 23-37-21](https://user-images.githubusercontent.com/114848156/225989000-3e52b7e9-bb45-4b76-9e0c-f175d330c3c4.png)
 
 ## All Subjects
-![Screenshot from 2023-03-17 23-37-00](https://user-images.githubusercontent.com/114848156/225989179-8ec6afd1-d866-4ec3-b1bd-7dbf4e1cddc8.png)
+![Screenshot from 2023-03-17 23-37-11](https://user-images.githubusercontent.com/114848156/225990107-cefc97fd-8b9e-40ee-9340-d356f91ec444.png)
+
 
 ## Add New Subject
 ![Screenshot from 2023-03-17 23-37-30](https://user-images.githubusercontent.com/114848156/225989282-97a16ed3-43b8-403c-86fe-c9feb95479fb.png)
