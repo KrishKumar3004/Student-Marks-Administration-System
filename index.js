@@ -34,6 +34,11 @@ app.get("/students", async (req, res) => {
   res.render("students/index", { students, subjects });
 });
 
+// route to show the list of every student
+app.get("/", async (req, res) => {
+  res.redirect("/students");
+});
+
 // route to get the request to add new student
 app.get("/students/new", (req, res) => {
   res.render("students/new");
